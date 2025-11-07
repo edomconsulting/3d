@@ -1,0 +1,5 @@
+{
+  "name": "CardioCare Dashboard 3D + rdv ",
+  "description": "A responsive and interactive dashboard for cardiology medical consultants to monitor patient data, manage schedules, and track medical reports. It provides real-time insights into patient vitals, body analysis, and treatment progress in a visually appealing and user-friendly interface.",
+  "requestFramePermissions": []
+}
